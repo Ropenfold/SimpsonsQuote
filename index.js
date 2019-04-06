@@ -12,3 +12,5 @@ function getQuote() {
       document.getElementById("character").innerHTML = `${data[0].character}`;
     });
 }
+
+getQuote();
