@@ -4,4 +4,4 @@ Create a one page website that displays a quote from a fetch request. One of the
 
 ![alt text][logo]
 
-[logo]: https://i.imgur.com/72sbWu1b.png "Simpsons Random Quote Generator"
+[logo]: https://i.imgur.com/72sbWu1.png "Simpsons Random Quote Generator"
